@@ -2,7 +2,7 @@ ocp-subscription:
   metadata:
     name: ibm-automation-foundation
   spec:
-    channel: v1.1
+    channel: v4.4
     config:
       resources:
         limits:
